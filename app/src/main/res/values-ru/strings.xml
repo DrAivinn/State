@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">State</string>
+    <string name="сucumber">Огурец</string>
+    <string name="fish">Рыба</string>
+    <string name="potato">Картофель</string>
+    <string name="loaf">Батон</string>
+    <string name="meat">Мясо</string>
+    <string name="banana">Банан</string>
+    <string name="switch_language">Переключить язык</string>
+    <string name="list_of_products">Список продуктов</string>
+</resources>

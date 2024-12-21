@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">State</string>
+    <string name="сucumber">Cucumber</string>
+    <string name="fish">Fish</string>
+    <string name="potato">Potato</string>
+    <string name="loaf">Loaf</string>
+    <string name="meat">Meat</string>
+    <string name="banana">Banana</string>
+    <string name="switch_language">Switch language</string>
+    <string name="list_of_products">List of products</string>
+</resources>
